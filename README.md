@@ -29,3 +29,5 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 Représentez la même association avec la notation UML « petit losange » 
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
+
+1. *Cardinalité* : La notation "petit losange" ne permet pas de spécifier les cardinalités de la relation entre les classes. Par conséquent, on perd l'information sur le nombre minimum et maximum d'objets d'une classe qui peuvent être associés à un objet de l'autre classe.
